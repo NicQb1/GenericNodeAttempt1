@@ -1,0 +1,4 @@
+C:\Users\hutch\OneDrive\Documents\GitHub\GenericNodeAttempt1\GenericNodeAttempt1\Text Input\obj\Debug\Text Input.csprojResolveAssemblyReference.cache
+C:\Users\hutch\OneDrive\Documents\GitHub\GenericNodeAttempt1\GenericNodeAttempt1\Text Input\obj\Debug\Text_Input.Form1.resources
+C:\Users\hutch\OneDrive\Documents\GitHub\GenericNodeAttempt1\GenericNodeAttempt1\Text Input\obj\Debug\Text_Input.Properties.Resources.resources
+C:\Users\hutch\OneDrive\Documents\GitHub\GenericNodeAttempt1\GenericNodeAttempt1\Text Input\obj\Debug\Text Input.csproj.GenerateResource.Cache

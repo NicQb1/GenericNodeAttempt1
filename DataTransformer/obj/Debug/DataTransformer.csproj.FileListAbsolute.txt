@@ -1,0 +1,9 @@
+C:\Users\nhutchison\Documents\GitHub\Jarvis\Jarvis\DataTransformer\bin\Debug\DataTransformer.dll
+C:\Users\nhutchison\Documents\GitHub\Jarvis\Jarvis\DataTransformer\bin\Debug\DataTransformer.pdb
+C:\Users\nhutchison\Documents\GitHub\Jarvis\Jarvis\DataTransformer\obj\Debug\DataTransformer.dll
+C:\Users\nhutchison\Documents\GitHub\Jarvis\Jarvis\DataTransformer\obj\Debug\DataTransformer.pdb
+C:\Users\hutch\OneDrive\Documents\GitHub\GenericNodeAttempt1\DataTransformer\bin\Debug\DataTransformer.dll
+C:\Users\hutch\OneDrive\Documents\GitHub\GenericNodeAttempt1\DataTransformer\bin\Debug\DataTransformer.pdb
+C:\Users\hutch\OneDrive\Documents\GitHub\GenericNodeAttempt1\DataTransformer\obj\Debug\DataTransformer.csprojResolveAssemblyReference.cache
+C:\Users\hutch\OneDrive\Documents\GitHub\GenericNodeAttempt1\DataTransformer\obj\Debug\DataTransformer.dll
+C:\Users\hutch\OneDrive\Documents\GitHub\GenericNodeAttempt1\DataTransformer\obj\Debug\DataTransformer.pdb

@@ -1,0 +1,13 @@
+c:\Users\hutch\OneDrive\documents\visual studio 2015\Projects\Jarvis\Interfaces\bin\Debug\Interfaces.dll
+c:\Users\hutch\OneDrive\documents\visual studio 2015\Projects\Jarvis\Interfaces\bin\Debug\Interfaces.pdb
+c:\Users\hutch\OneDrive\documents\visual studio 2015\Projects\Jarvis\Interfaces\obj\Debug\Interfaces.dll
+c:\Users\hutch\OneDrive\documents\visual studio 2015\Projects\Jarvis\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\nhutchison\Documents\GitHub\Jarvis\Jarvis\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\nhutchison\Documents\GitHub\Jarvis\Jarvis\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\nhutchison\Documents\GitHub\Jarvis\Jarvis\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\nhutchison\Documents\GitHub\Jarvis\Jarvis\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\hutch\OneDrive\Documents\GitHub\GenericNodeAttempt1\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\hutch\OneDrive\Documents\GitHub\GenericNodeAttempt1\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\hutch\OneDrive\Documents\GitHub\GenericNodeAttempt1\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\hutch\OneDrive\Documents\GitHub\GenericNodeAttempt1\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\hutch\OneDrive\Documents\GitHub\GenericNodeAttempt1\Interfaces\obj\Debug\Interfaces.pdb

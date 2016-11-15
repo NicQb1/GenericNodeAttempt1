@@ -1,0 +1,5 @@
+C:\Users\hutch\OneDrive\Documents\GitHub\GenericNodeAttempt1\GenericNodeAttempt1\GenericNodeAttempt1\bin\Debug\GenericNodeAttempt1.dll
+C:\Users\hutch\OneDrive\Documents\GitHub\GenericNodeAttempt1\GenericNodeAttempt1\GenericNodeAttempt1\bin\Debug\GenericNodeAttempt1.pdb
+C:\Users\hutch\OneDrive\Documents\GitHub\GenericNodeAttempt1\GenericNodeAttempt1\GenericNodeAttempt1\obj\Debug\GenericNodeAttempt1.csprojResolveAssemblyReference.cache
+C:\Users\hutch\OneDrive\Documents\GitHub\GenericNodeAttempt1\GenericNodeAttempt1\GenericNodeAttempt1\obj\Debug\GenericNodeAttempt1.dll
+C:\Users\hutch\OneDrive\Documents\GitHub\GenericNodeAttempt1\GenericNodeAttempt1\GenericNodeAttempt1\obj\Debug\GenericNodeAttempt1.pdb
